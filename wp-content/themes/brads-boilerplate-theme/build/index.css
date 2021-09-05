@@ -1,6 +1,6 @@
 .example-react-component {
   margin: 15px 0;
-  background-color: #2d7cf1;
+  background-color: #148036;
   color: #FFF;
   padding: 20px;
   border-radius: 5px;
@@ -21,8 +21,9 @@ html, body {
 }
 
 body {
-  color: #333;
-  font-family: sans-serif;
+  color: black;
+  font-family: Georgia, serif;
+  font-style: italic;
   font-size: 0.9rem;
 }
 @media screen and (min-width: 520px) {
@@ -39,11 +40,11 @@ body {
 }
 
 a:link, a:visited {
-  color: #2d7cf1;
+  color: #148036;
 }
 
 a:hover {
-  color: #ff0077;
+  color: #c6035e;
 }
 
 /*# sourceMappingURL=index.css.map*/

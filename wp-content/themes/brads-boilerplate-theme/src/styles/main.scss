@@ -7,8 +7,9 @@ html, body {
 }
 
 body {
-  color: #333;
-  font-family: sans-serif;
+  color: black;
+  font-family: Georgia, serif;
+  font-style: italic;
   font-size: .9rem;
   @include atSmall {
     padding: 20px;
